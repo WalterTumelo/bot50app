@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bots50</string>
+    <string name="edit_message">Edit your Name</string>
+    <string name="edit_send">Send</string>
+    <string-array name="towns">
+        <item>Molepolole</item>
+        <item>Palapye</item>
+        <item>Mochudi</item>
+        <item>Maun</item>
+        <item>Gnanzi</item>
+        <item>Kasane</item>
+        <item>Francistown</item>
+        <item>Kanye</item>
+        <item>Tsabong</item>
+        <item>Tlokweng</item>
+    </string-array>
+</resources>
